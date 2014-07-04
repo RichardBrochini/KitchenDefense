@@ -1,0 +1,10 @@
+MIDlet-1: iniciar,,iniciar
+MIDlet-Jar-URL: KitchenDefense.jar
+MIDlet-Icon: icone.png
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.0
+MIDlet-Info-URL: http://www.brochini.com/celular/
+MIDlet-Name: KD
+MIDlet-Description: Jogo Feito para o evento da SBGames 2008 por Richard Brochini e David Brochini
+MIDlet-Vendor: David e Richard
+MicroEdition-Profile: MIDP-2.0

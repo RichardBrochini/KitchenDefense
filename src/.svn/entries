@@ -1,0 +1,40 @@
+8
+
+dir
+1
+svn://svn.nuclearmidia.com.br/KitchenDefense/src
+svn://svn.nuclearmidia.com.br/KitchenDefense
+
+
+
+2009-03-17T21:06:34.450232Z
+1
+tecnomancher
+
+
+svn:special svn:externals svn:needs-lock
+
+Menu
+dir
+
+jogador
+dir
+
+mostros
+dir
+
+defesa
+dir
+
+iniciar.java
+file
+
+
+
+
+2008-10-31T01:10:52.000000Z
+88d4a39a3454e02b062628bdd1fbae12
+2009-03-17T21:06:34.450232Z
+1
+tecnomancher
+

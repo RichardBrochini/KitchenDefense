@@ -1,0 +1,88 @@
+8
+
+dir
+1
+svn://svn.nuclearmidia.com.br/KitchenDefense/src/jogador
+svn://svn.nuclearmidia.com.br/KitchenDefense
+
+
+
+2009-03-17T21:06:34.450232Z
+1
+tecnomancher
+
+
+svn:special svn:externals svn:needs-lock
+
+Status.java
+file
+
+
+
+
+2008-10-31T05:41:34.000000Z
+4e93a9c1028974af67ea97d70403b534
+2009-03-17T21:06:34.450232Z
+1
+tecnomancher
+
+Selecionar.java
+file
+
+
+
+
+2008-10-26T19:58:24.000000Z
+5687f87723424667a84b228b0fa267d0
+2009-03-17T21:06:34.450232Z
+1
+tecnomancher
+
+MiniCursorAtualizar.java
+file
+
+
+
+
+2008-10-31T03:24:08.000000Z
+2e14345028a851189a5be17181f2dc7f
+2009-03-17T21:06:34.450232Z
+1
+tecnomancher
+
+MiniCursor.java
+file
+
+
+
+
+2008-10-26T19:29:40.000000Z
+73f2e01969c23191359538cbe95cdf67
+2009-03-17T21:06:34.450232Z
+1
+tecnomancher
+
+Atualizar.java
+file
+
+
+
+
+2008-10-31T03:19:08.000000Z
+90ac954cc3adf13fee51a40f21f301d8
+2009-03-17T21:06:34.450232Z
+1
+tecnomancher
+
+Cursor.java
+file
+
+
+
+
+2008-10-31T05:33:32.000000Z
+73adfa03fd87f038b511f698ddf41dc0
+2009-03-17T21:06:34.450232Z
+1
+tecnomancher
+
